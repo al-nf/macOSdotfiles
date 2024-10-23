@@ -16,7 +16,10 @@ ZSH_THEME="gentoo"
 # a theme from this variable instead of looking in $ZSH/themes/
 # If set to an empty array, this variable will have no effect.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
-
+#
+# COLORS
+ZSH_COLORIZE_TOOL=chroma
+ZSH_COLORIZE_CHROMA_FORMATTER=true-color
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
@@ -104,8 +107,7 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval $(thefuck --alias)
-ZSH_COLORIZE_TOOL=chroma
-ZSH_COLORIZE_CHROMA_FORMATTER=true-color
-neofetch
 alias ls="eza --icons"
 alias arduino="arduino-cli"
+
+neofetch
