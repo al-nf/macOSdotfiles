@@ -4,6 +4,8 @@
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export PATH=~/scripts:$PATH
+export PATH=~/.cargo/bin:$PATH
+export EDITOR="/usr/bin/vim"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
@@ -74,7 +76,7 @@ zstyle ':omz:update' mode auto      # update automatically without asking
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git brew copyfile copypath git-commit gitfast github hitchhiker macos ssh thefuck themes tmux tmuxinator wd z zbell transfer colored-man-pages command-not-found copybuffer arduino-cli catimg zsh-autosuggestions zsh-syntax-highlighting you-should-use)
+plugins=(git brew copyfile copypath git-commit gitfast github gh hitchhiker macos ssh thefuck themes tmux tmuxinator wd z zbell transfer colored-man-pages command-not-found copybuffer arduino-cli catimg zsh-autosuggestions zsh-syntax-highlighting you-should-use)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -108,6 +110,13 @@ fi
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval $(thefuck --alias)
 alias ls="eza --icons"
-alias arduino="arduino-cli"
-
-neofetch
+alias ard="arduino-cli"
+alias spt="spotify"
+alias sp="s -p"
+alias wk="s -p wikipedia"
+alias spg="s -p github"
+alias bonsai="cbonsai"
+alias paclear="paclear -c yellow"
+alias lastd="[ -s ~/.lastdirectory ] && cd `cat ~/.lastdirectory`"
+alias fetch="neofetch"
+fetch

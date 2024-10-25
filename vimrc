@@ -22,3 +22,4 @@ set shiftwidth=4
 set expandtab
 set softtabstop=-1
 set incsearch
+set autoindent
