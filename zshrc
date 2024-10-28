@@ -119,4 +119,6 @@ alias bonsai="cbonsai"
 alias paclear="paclear -c yellow"
 alias lastd="[ -s ~/.lastdirectory ] && cd `cat ~/.lastdirectory`"
 alias fetch="neofetch"
+alias gcc="gcc-14"
+alias g++="g++-14"
 fetch
