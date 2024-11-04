@@ -16,7 +16,7 @@ filetype indent on
 syntax on
 
 " misc
-set rnu
+set nu
 set tabstop=4
 set shiftwidth=4
 set expandtab
