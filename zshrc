@@ -120,4 +120,6 @@ alias paclear="paclear -c yellow"
 alias lastd="[ -s ~/.lastdirectory ] && cd `cat ~/.lastdirectory`"
 alias gcc="gcc-14"
 alias g++="g++-14"
+alias clear="clear && fastfetch"
+alias neo="neo -D"
 fastfetch
