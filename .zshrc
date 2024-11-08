@@ -4,6 +4,9 @@ ZSH=/usr/share/oh-my-zsh/
 # Powerlevel10k theme path
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 
+# Editor
+export EDITOR='nvim'
+export VISUAL='nvim'
 # List of plugins used
 plugins=(git sudo zsh-256color zsh-autosuggestions zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
