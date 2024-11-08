@@ -1,3 +1,3 @@
 # info  
-branch `zeus`: arch, hyprland, ohmyzsh + kitty, nvim  
-branch `alexandria`: macOS, ohmyzsh + wezterm, nvim  
+branch `zeus`: arch, hyprland, kitty + ohmyzsh, nvim  
+branch `alexandria`: macOS, wezterm + ohmyzsh, nvim  
