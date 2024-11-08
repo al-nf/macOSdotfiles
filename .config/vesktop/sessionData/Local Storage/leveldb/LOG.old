@@ -1,0 +1,6 @@
+2024/11/07-18:44:52.007 5b6 Reusing MANIFEST /home/afung/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/07-18:44:52.045 5b6 Recovering log #12
+2024/11/07-18:44:52.048 5b6 Reusing old log /home/afung/.config/vesktop/sessionData/Local Storage/leveldb/000012.log 
+2024/11/07-18:45:53.046 5b6 Level-0 table #16: started
+2024/11/07-18:45:53.048 5b6 Level-0 table #16: 74472 bytes OK
+2024/11/07-18:45:53.050 5b6 Delete type=0 #12

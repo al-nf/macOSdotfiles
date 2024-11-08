@@ -1,0 +1,21 @@
+2024/11/07-19:03:39.784 5a5 Reusing MANIFEST /home/afung/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/07-19:03:39.825 5a5 Recovering log #15
+2024/11/07-19:03:39.833 5a5 Reusing old log /home/afung/.config/vesktop/sessionData/Local Storage/leveldb/000015.log 
+2024/11/07-19:04:40.660 5a6 Level-0 table #19: started
+2024/11/07-19:04:40.664 5a6 Level-0 table #19: 93649 bytes OK
+2024/11/07-19:04:40.667 5a6 Delete type=0 #15
+2024/11/07-19:04:40.667 5a6 Compacting 4@0 + 1@1 files
+2024/11/07-19:04:40.670 5a6 Generated table #20@0: 21 keys, 78274 bytes
+2024/11/07-19:04:40.670 5a6 Compacted 4@0 + 1@1 files => 78274 bytes
+2024/11/07-19:04:40.674 5a6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-19:04:40.674 5a6 Delete type=2 #19
+2024/11/07-19:04:40.674 5a6 Delete type=2 #16
+2024/11/07-19:04:40.674 5a6 Delete type=2 #11
+2024/11/07-19:04:40.674 5a6 Delete type=2 #8
+2024/11/07-19:04:40.674 5a6 Delete type=2 #13
+2024/11/07-19:05:40.661 5a6 Level-0 table #22: started
+2024/11/07-19:05:40.663 5a6 Level-0 table #22: 74231 bytes OK
+2024/11/07-19:05:40.665 5a6 Delete type=0 #18
+2024/11/07-20:11:40.661 5a6 Level-0 table #24: started
+2024/11/07-20:11:40.664 5a6 Level-0 table #24: 13961 bytes OK
+2024/11/07-20:11:40.665 5a6 Delete type=0 #21
