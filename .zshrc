@@ -76,6 +76,7 @@ alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also t
 alias vc='code' # gui code editor
 alias clear='clear && fastfetch'
 alias vim='nvim'
+alias neo='neo -D'
 
 # Directory navigation shortcuts
 alias ..='cd ..'
