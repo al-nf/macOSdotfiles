@@ -122,4 +122,5 @@ alias gcc="gcc-14"
 alias g++="g++-14"
 alias clear="clear && fastfetch"
 alias neo="neo -D"
+alias vim='nvim'
 fastfetch
